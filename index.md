@@ -2,22 +2,23 @@
 layout: cv
 title: Kevin Brick's CV
 ---
-# Isaac Newton
-Thinker, Mathematician, Cambridge professor.
+# Kevin Brick
+Computational biologist & Bioinformatician
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My academic record</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior computational biologist (Staff scientist)
+Genetics & Biochemistry Section, NIDDK, National Institutes of Health, USA
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Genomics, bioinformatics, data science for biology
 
 
 ### Research interests
