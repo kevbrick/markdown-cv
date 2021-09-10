@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kevin Brick's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Thinker, Mathematician, Cambridge professor.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
